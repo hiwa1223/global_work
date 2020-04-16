@@ -15,7 +15,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .clock {
   width: 80%;
   max-width: 500px;
