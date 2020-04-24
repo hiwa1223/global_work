@@ -9,5 +9,11 @@
 
 ## 2.環境
 
-HTML,CSS、Javascript、vue.js
+HTML,CSS、Javascript、Vue.js
 デプロイはHerokuで行っています。
+
+## 3.制作の背景
+
+Vue.jsを学習したので、アウトプットとして作成しました。
+また、海外の友人を思い出せるようなアプリを制作したかった。
+海外旅行にも使用できます。
